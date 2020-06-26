@@ -1,0 +1,23 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "A travel website example",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradFabian/natour.git"
+  },
+  "author": "Brad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BradFabian/natour/issues"
+  },
+  "homepage": "https://github.com/BradFabian/natour#readme"
+}
